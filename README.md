@@ -8,7 +8,6 @@
 
 
 
-
 <h4 align="center"> 
 
 <a href="https://www.linkedin.com/in/aquiles-rodrigues-1715b668/" rel="nofollow"><img src="https://image.flaticon.com/icons/png/512/355/355994.png" width="30px" alt="Linkedin Badge" data-canonical-src="https://image.flaticon.com/icons/png/512/185/185964.png?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/aquiles-rodrigues-1715b668/" style="max-width:10%"></a>
